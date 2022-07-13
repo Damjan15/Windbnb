@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/windbnb-backend
 /.pnp
 .pnp.js
 
